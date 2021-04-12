@@ -1,3 +1,5 @@
-# ssh-keys
+# Managed Services Settings
 
-SSH Keys of IPS team members. Only add to servers when asked by personel. 
+You'll find here the;
+- SSH Keys of IPS team members
+- IP-Addresses required for management / monitoring
